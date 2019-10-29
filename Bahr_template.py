@@ -1,6 +1,4 @@
 from reportlab.lib import colors
-import reportlab
-
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import mm, inch
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image, PageBreak, Table, TableStyle, ListFlowable, ListItem
@@ -125,21 +123,29 @@ class BahrTemplateGenerator:
 
     def build_pdf(self,data):
         
-        payments = data[0]
-        project_details = data[1]
-        terms = data[2]
+        payments = data['payments']
+        project_details = data['project_details']
+        terms = data['terms']
+
+        if payments is None or project_details is None or terms is None :
+            return False
 
         for i in range(len(terms)):
             terms[i] = arabic_reshaper.reshape(terms[i])
             terms[i] = get_display(terms[i])
+
+
+
 
         flowables =[]
         # d = shapes.Drawing(100, 1) #line 
         link2 = "bahr_logo.png"
         link1 = "invoice.png"
 
+        timestr = time.strftime("%Y%m%d-%H%M%S")
+
         my_doc = SimpleDocTemplate(
-            "trial.pdf",
+            "/home/khaledawad/PdfCreator/" +timestr+".pdf",
             pagesize=PAGESIZE,
             topMargin=BASE_MARGIN,
             leftMargin=BASE_MARGIN,
@@ -223,4 +229,6 @@ class BahrTemplateGenerator:
             onFirstPage=self.add_page_number,
             onLaterPages=self.add_page_number,
         )
+
+        return True
 

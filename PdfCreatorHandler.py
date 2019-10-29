@@ -6,15 +6,22 @@ import Bahr_template
 
 class PdfCreatorHandler(tornado.web.RequestHandler):
 
-    def get(self):
-        title = self.get_argument('title')
-        author = self.get_argument('author')
-        # result = self.books.add_book(title, author)
-        # self.write(result)
+    def set_default_headers(self):
+        self.set_header("Content-Type", 'application/json')
     def post(self):
         data = json.loads(self.request.body.decode('utf-8'))
 
+        Generator = (self.request.headers.get('Template-Name'))
+        
         x = Bahr_template.BahrTemplateGenerator()
-        x.build_pdf(data)
+        x = x.build_pdf(data)
         print(data)
-        # self.write(result)
+        if(x == False):
+            self.set_status(201)
+            self.write("Wrong parameter")
+
+        else:
+            self.write({'Response': "everything is good"})
+            print(data)
+ 
+
