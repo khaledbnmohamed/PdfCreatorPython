@@ -12,7 +12,6 @@ from reportlab.lib.enums import TA_JUSTIFY,TA_LEFT,TA_CENTER,TA_RIGHT
 from reportlab.graphics.shapes import Drawing, Line
 import arabic_reshaper
 from bidi.algorithm import get_display
-import Bahr_template 
 
 PAGESIZE = (140 * mm, 216 * mm)
 BASE_MARGIN = 2 * mm
@@ -21,6 +20,7 @@ BASE_MARGIN = 2 * mm
 
 pdfmetrics.registerFont(TTFont('Arabic', 'arabic.ttf'))
 
+# Some of the following statements are true and others are false. 
 
 class BahrTemplateGenerator:
 

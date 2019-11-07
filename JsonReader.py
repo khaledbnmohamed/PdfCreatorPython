@@ -1,12 +1,13 @@
-import json
-
-# some JSON:
-with open('/home/khaledawad/PdfCreator/data.json') as f:
-    data = json.load(f)
-
-# parse x:
+import itertools
 
 
-for i in range(len(data)):
-    print(data[i])
-    print("============")
+questions =[]
+# with open("true.txt") as fp:
+#     for i, line in enumerate(fp):
+
+# # print(questions)
+
+with open("true.txt") as f:
+    questions = [line.strip() for line in f if line.strip()]
+print(len(questions))
+print(questions)

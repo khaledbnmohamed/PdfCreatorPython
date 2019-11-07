@@ -1,0 +1,50 @@
+﻿The wave function has the same nodes for a particle in box and Harmonic Oscillation at n=3.		            				
+The quantum number (n) is the same for a particle in box and Harmonic Oscillation.
+H ?(x,y,z)=E ? (x,y,z) is time-dependent Schrodinger equation.	   
+Eigen function with quantum numbers equal 3,2,0 is a diffuse function.        
+Probability density has no physical meaning.     			
+Spherical polar coordinates are used to describe the H- atom.  
+The wave function should be a normalized function.
+The difference in energy increases with increasing (n) for a particle in box.
+The wave function for a H-atom depends on four quantum numbers.
+Bond order is the number of bonds in the molecule.
+H2 molecular ion is less stable than H2 molecule.			 
+Hybridization increases the bonding overlap and decreases the antibonding overlap in the case of HF formation.
+H ?(x,y,z)=E ? (x,y,z) is time-dependent Schrodinger equatiom.	
+Eigen function with quantum numbers equal 3,2,0 is a diffuse function   
+H2 molecular ion is less stable than H2 molecule.		            
+The overlap is equal zero because of the orthogonality functions.	
+H ?(x,y,z)=E ? (x,y,z) is time-dependent Schrodinger equation.	   
+Eigen function with quantum numbers equal 3,2,0 is a diffuse function.        
+?- bond is stronger than ?�bond because of head to head interaction. 
+Complex conjugate wave function is a different function.
+Probability density is the square of probability description.
+The probability of finding a particle at a node is equal one.
+The wave function for a particle in box at n=6 has 6 nodes.
+The wave function should be an eigen value.
+Hamiltonian operator for a particle in box is a Kinetic energy.
+The wave function for a H-atom at n=1 has a sharp shape.
+The difference between energy levels increases with (n) for a particle in box.
+Time independent Schr?dinger equation depends on time. 
+Wave function is an Eigen function because of the effect of Hamiltonian operator.
+N2 molecule has 3 bonds, one is ? and two are ?.
+Angular momentum quantum number (l) determines the shape of electron.
+Complex conjugate wave function is the same function.
+Oppenheimer approximation is important for an Harmonic Oscillator.
+Bond order determines the number of bonds.
+Wave function should be a normalized function.
+Probability density is the square of probability description.
+The difference in energy increases with decreasing principle quantum number (n).
+The wave function for a particle in box at n=6 has 6 nodes.
+The wave function should be an eigen value.
+Hamiltonian operator for a particle in box is a Kinetic energy.
+The wave function at n=1 is sharp.
+The difference between energy levels increases with (n) for a particle in box.
+Time independent Schr?dinger equation depends on time. 
+Wave function is an Eigen function because of the effect of Hamiltonian operator.
+Hamiltonian operator for a particle in box is a Kinetic energy.
+The wave function at n=1 is sharp.
+The difference between energy levels increases with (n) for a particle in box.
+Time independent Schr?dinger equation depends on time. 
+Wave function is an Eigen function because of the effect of Hamiltonian operator.
+
