@@ -1,0 +1,37 @@
+	
+
+      						
+The velocity of a particle is completely specified by its magnitude.
+The Eigen value of a particle in 2D-box is inversely proportional to the principal quantum number.
+Hamiltonian operator for hydrogen atom is a Kinetic energy.
+The divergence of a vector function is the gradient function.
+The antibonding character increases the stability of molecules.
+The difference between energy levels decreases with (n) for a particle in box.
+H2-2 could exist as a molecule.
+Time-independent Schrödinger equation is a function of position.
+For a particle in box a nodless Eigen function has a minimum energy.
+The electron level diagram represents the position and the momentum of a particle.
+The substitution [?(nx)+ ?(ny) and E(nx) E(ny)] allow us to solve the two dimensional Schrödinger equation.
+The wave function packet is real and particular to different types of particles.
+A node is the best place to find an electron.
+For a particle in a one-dimensional box of length L can be excited from the
+n = 1 to the n = 2 state by light of frequency ?. If the box length is doubled, the frequency needed to produce the transition becomes ?/2.
+Eigen function with quantum numbers n=3 and L=2, is a principal function.
+Wave function is an Eigen function because of the effect of Eigen value.
+The probability of finding a particle in 3D box at node at n=3 equals n-1.
+H2 molecule has two types of overlap.
+The number of overlaps is defined from the calculated bond strength.
+Oppenheimer considers that the electron density is fixed point in space.
+
+
+
+
+
+
+
+  
+
+
+    			
+                              Good Luck	                                        	Dr. Faten M. Atlam
+

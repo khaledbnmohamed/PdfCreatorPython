@@ -1,0 +1,15 @@
+Probability density has no physical meaning because it contains imaginary value.     	  
+The complex conjugate of wave function should be a normalized function.
+H (x,y,z)=E (x,y,z) is time-dependent Schrodinger equation.	   
+Complex conjugate wave function is a different function.
+Probability density is the square of probability description.
+Time-independent Schrodinger equation depends on time. 
+Complex conjugate wave function changes the wave function to imaginary function.
+Wave function should be an orthonormalized function.
+Probability description is the probability of finding a particle at certain position and certain time.
+The electron is either a particle or a wave.
+11-The total wave function could be separated to four functions.
+?(x,y,z,t) is an imaginary function.
+Quantum chemistry deals with the macroscopic particles.
+State function should be solved mathematically.
+Noble prize 2019 was given to two scientists.

@@ -1,54 +1,51 @@
-Choose only one answer for each of the following question:                             
 1-Wave function has no physical meaning because it has:
-            i-Real value	 ii- one value	iii- imaginary value	iv- all     
+	i-Real value            ii- one value   iii- imaginary value    iv- all     
 2- Magnetic quantum number defines;
-   i-Shape of electron	ii-orientation	iii-energy	iv-heat
+	i-Shape of electron	ii-orientation	iii-energy	iv-heat
 3- H?=E? is an equation of :
-  i-Time independent Schr?dinger equation   ii-time dependent    iii-Heisenberg equation		   iv- Morley equation
+	i-Time independent Schr?dinger equation   ii-time dependent    iii-Heisenberg equation  iv- Morley equation
 4- Normalization of function means:
-       i- Complete interaction   ii-zero interaction   iii-half interaction     iv-no interaction
+	i- Complete interaction   ii-zero interaction   iii-half interaction     iv-no interaction
 5- An eigen value means:
- i- Single value	ii-half value	iii-more than one value	iv-zero value
-
+	i- Single value	ii-half value	iii-more than one value	iv-zero value
 6-Complex conjugate wave function is:			
-                  i-exact function	ii-different function	iii-same function	iv-all
+	i-exact function	ii-different function	iii-same function	iv-all
 7-According to Heisenberg, It is impossible to determine two properties:
-i- precisely		ii-simultaneously 	iii-at the same time	iv-all
-     8-The wave function should be:
-i- Normalized	ii-Orthogonal		iii-Orthonormalized	iv- all
-     9-The principle quantum number for particle in box at second energy level has a value:
-                   i-zero	ii-one		iii-two		iv-three
-     10-The probability of finding a particle at a node at n=3 equals:
-                   i-zero	  ii-one		iii-two		iv-three
+	i- precisely		ii-simultaneously 	iii-at the same time	iv-all
+8-The wave function should be:
+	i- Normalized	ii-Orthogonal		iii-Orthonormalized	iv- all
+9-The principle quantum number for particle in box at second energy level has a value:
+	i-zero	ii-one		iii-two		iv-three
+10-The probability of finding a particle at a node at n=3 equals:
+	i-zero	  ii-one		iii-two		iv-three
 11- Wave function has no physical meaning because it has :
-        i-Real value	ii- one value		iii- imaginary value	iv- all 
+	i-Real value	ii- one value		iii- imaginary value	iv- all 
 12- Hamiltonian operator for a particle in box is:
-        i-K.E.		ii- Potential energy	iii- K.E. + Pot.E.	iv-Zero	
+	i-K.E.		ii- Potential energy	iii- K.E. + Pot.E.	iv-Zero	
 13- According to Heisenberg, It is impossible to determine two properties:
-        i-precisely		ii-simultaneously 	iii-at the same time	iv-all
+	i-precisely		ii-simultaneously 	iii-at the same time	iv-all
 14- The wave function for H-atom depends on:
-        i-principle quantum number	ii- vibration		iii-spin 	iv- all
+	i-principle quantum number	ii- vibration		iii-spin 	iv- all
 15- The probability of finding a particle in box at a node at n=3 equals:
-        i-zero	ii-one		iii-two		iv-three
-
+	i-zero	ii-one		iii-two		iv-three
 16- Wave function has no physical meaning because it has :
-        i-Real value	ii- one value		iii- imaginary value	iv- all 
+	i-Real value	ii- one value		iii- imaginary value	iv- all 
 17- Hamiltonian operator for a particle in box is:
-        i-K.E.		ii- Potential energy	iii- K.E. + Pot.E.	iv-Zero	
+	i-K.E.		ii- Potential energy	iii- K.E. + Pot.E.	iv-Zero	
 18- The wave function should be:
-        i-Normalized	ii-Orthogonal		iii-Orthonormalized	iv- all
+	i-Normalized	ii-Orthogonal		iii-Orthonormalized	iv- all
 19- The probability of finding a particle at a node at n=3 equals:
-        i-zero	ii-one		iii-two		iv-three
+	i-zero	ii-one		iii-two		iv-three
 20- Principle quantum number (n) for a particle in box is start from:
-i= zero	ii- one		iii- two		iv-four
+	i= zero	ii- one		iii- two		iv-four
 21- Number of nodes in the Harmonic oscillator is equal to:
-i- n	ii- n-1		iii- n+1		iv- zero
+	i- n	ii- n-1		iii- n+1		iv- zero
 22- Angular momentum quantum number(l) defines;
-i- Shape of electron	ii-orientation	iii-energy	iv-heat
+	i- Shape of electron	ii-orientation	iii-energy	iv-heat
 23- H?=E? is an equation of :
-i-Time independent Schr?dinger equation   ii-time dependent    iii-Heisenberg equation		iv- Morley equation
+	i-Time independent Schr?dinger equation   ii-time dependent    iii-Heisenberg equation		iv- Morley equation
 24- Normalization of function means:
-i-Complete interaction	ii-zero interaction	iii-half interaction	iv-no interaction
+	i-Complete interaction	ii-zero interaction	iii-half interaction	iv-no interaction
 25- An eigen value means:
-i- Single value	ii-half value	iii-more than one value	iv-zero value
+	i- Single value	ii-half value	iii-more than one value	iv-zero value
 

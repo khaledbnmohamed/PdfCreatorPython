@@ -1,0 +1,30 @@
+1-Wave function has no physical meaning because it has:
+i-real value	 ii- one value	iii- imaginary value	iv- all    
+2- Normalization of function means:
+i- complete interaction   ii-zero interaction   iii-half interaction     iv-no interaction
+3-Complex conjugate wave function is:			
+i-exact function	ii-different function	iii-same function	iv-all
+4-According to Heisenberg, It is impossible to determine two properties:
+i- precisely		ii-simultaneously 	iii-at the same time	iv-all
+5-The wave function should be:
+i-normalized	ii-orthogonal		iii-orthonormalized	iv- all
+6- Applying the separation of variables rule when the variables are:
+i-dependent on each other	ii- independent   iii- imaginary 	iv- single value
+7- Square of the total wave function equals to:
+i-square of ?(t)	ii-square of ?(x)		iii- ?(x,t)	iv-none of them
+8- Electron looks like:
+i-a particle	ii-a wave   iii-particle and wave   iv-neither a particle nor a wave
+9- Time in-dependent Schrodinger equation depends on:
+i-time only   ii- position only   iii- time and position   iv- neither time nor position
+10- Quantum chemistry is a branch of:
+i-molecular mechanics   ii- molecular dynamics   iii- quantum mechanics   iv- all
+11- Wave function is a probability of finding a particle at:
+i-certain position   ii-some time   iii- certain position and certain time   iv-some time and some position.
+12- Probability density contains:
+i-imaginary function   ii-imaginary value   iii-real value     iv- all
+13- Particle-wave duality of light means:
+i-it is a wave   ii-it is a particle   iii-it is a particle and wave   iv- it is neither a particle nor a wave.
+14- Wave function will be orthogonal when it is:
+i-parallel with another function   ii-perpendicular   iii- face to face   iv-None of them
+15- Both sides of time-dependent Schrodinger equation are equal:
+i-constant   ii- imaginary value     iii- ?(x,t)     iv- ?(t)
